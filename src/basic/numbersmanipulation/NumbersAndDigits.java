@@ -1,5 +1,5 @@
 package basic.numbersmanipulation;
 
-public class NumberTAndDigits {
+public class NumbersAndDigits {
 
 }
